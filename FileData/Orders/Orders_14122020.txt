@@ -1,0 +1,2 @@
+OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total
+6,mthree,CA,25.00,Carpet,300,2.25,2.10,675.00,630.00,326.25,1631.25

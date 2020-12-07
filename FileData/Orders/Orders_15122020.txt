@@ -1,0 +1,2 @@
+OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total
+7,TSG,KY,6.00,Tile,333,3.50,4.15,1165.50,1381.95,152.85,2700.30
